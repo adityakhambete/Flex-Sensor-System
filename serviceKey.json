@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flex-sensor-readings",
+  "private_key_id": "286128f7bb8e91e1d5f39b7fbf42b99357ae472c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC44ARVMyUeLxkQ\newtgPtTwEOwj/SgT2hywbA0IjRmKQjxkiK8fgCfly/S6h4pUXZ9OJejQkvxQrtuu\ni3Msnr7gxyyfZerIoJFHZbcqdDYeRYk8lwvv4sSrwphF1izQrj2dCrqw6z2YYyCG\nZ/rh3lQ0SKAF0XI4iUcLOlCuFmTZVk9neKWgBcvV9MvZkNWNJNENAKSd40UU+FfX\n90F8r97KPI6W7h21M96RZnCRSjXqvnLhDqZKClHOfvsbujJV+7IxJKBr8ISLs5It\n8Yy3oCCaAGurqixEdRvb1SVffufSjj427pPr1sPCIjP6I0vfz5q/eUsAwCvNaIRM\ntcX70JkBAgMBAAECggEACcbBk+aA0lLNRtjVkNZhw6bcG0nE4nUzSoURlLUuzOfp\nx6s5ZOINuhI0s98ntS8U6ziyp2z5GM8rtimRAqK2bK6RBoYziekr0D8Ua5NPqql6\nCLvixAxq4rux+md0C+kFlcC+f01BVEX8Wf80/i1tUy0lVoltOojP5UvFKR+YCld1\n4RRL/QFUGPaKVbllA/Ib/ALQ2Er2eUXQujMVcRt/4JrFx4WogFn4sk6LliggeLR0\nW/X04Y9h6cEISXCAx9O8C68rHYNd+7v8VT3tT2Oh8BYy5v47fr2cL/hiSEtz8yJ6\nyAphcvPGR6GAFsuRjxvOpDuaeRil7g8j4QPX7+OgLQKBgQD5hkqP+O9gMMlSu2le\n4nMWE2sdWLcdLYyZX3xbO1x8TWoMebQfeyjpkiHOPyR5Q4jc4OaGMwcJPKO3x5o8\nzYWEuYqOxUMfn7Od7L1X+bwjwdzsimyt5HT+v8Y78sw1SoHhCRLt+7+yOQZnbGMx\nuEkaS+1m56AwpuiHnKyoaUb6awKBgQC9rDqJ34YG0bbKLhrZ9//pdAvmOypTkR9Q\n2aeEanlnKH3T6bVmNO+GJpjTg5X+YgzbCTgXp8xXItzDD1IMs/sTFxcqfnt/PF6y\nTILVhyJn+QyAAIgWnioZsYYXMmlagwr3eXYxJ0b3estnFlT+KGjNBjqolUmEavH+\nZlYdEzjtQwKBgQCOYI0dF4rnFQ9bEKrwREAs4YmmJh/eG0Z1oWFg4T9Fghq34Z3g\ntLLEi+iUOb1DIEDw37dJ7cXfBGXakJ82gILmF8Sy8GX7nnGr9BCaKVqsAIthwR6A\nHrKPRbgELudMpSX01OujNZnNRPKdguAa16+GvLpKlHH4MNTPxJtUQTYJ3wKBgCEy\n1yAwxpXE+TiUL1D9joZ/MGIA8xyjZxbQsfiEZnF+7d88peqY01/ou5EyE/vtj5B7\nIZ1KWoLZ8EgYE2Vzzzt9LCnc76LKn0yYBcJ4H7aRKfXxoeBLmNTcdLr0sOoNy8qb\nMOvTkyFYFegaSZAe5JEWSQge8TpDOc4sfWAjcDBfAoGAE+256jM533cSXlFuvOeQ\nM3JLvP9qi+nl0lUPhTUa2UNV0RJCzpNZYHwd1y2OdxL9u73RKkFATBebZmUMoEP1\nPV3i1+6QVejHkJlMAC6K2EGQvUCpUdfcONfgRRXGNRlFjtJ52n2cPqyM3vd/f1tS\nJ4h7az+c2eK4CtzM+2r06qk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wislo@flex-sensor-readings.iam.gserviceaccount.com",
+  "client_id": "112836798003732858485",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wislo%40flex-sensor-readings.iam.gserviceaccount.com"
+}
