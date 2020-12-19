@@ -1,3 +1,3 @@
-# Flex-Sensor-System-Article
+# Flex-Sensor-System
 This is an article on a project titled 'Flex sensor system for reading hand movements using machine learning models'. 
-Please note this is NOT a Published Research article
+Please note this is NOT a Published Research article.
